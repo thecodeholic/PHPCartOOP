@@ -31,7 +31,7 @@ class Cart
      *
      * @param Product $product
      */
-    public function removeFromCart(Product $product)
+    public function removeProduct(Product $product)
     {
         //TODO Implement method
     }
